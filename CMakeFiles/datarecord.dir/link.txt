@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/datarecord.dir/src/datarecord.cpp.o  -o bin/datarecord -rdynamic -lpthread -lmyolinux -lboost_system -lboost_signals -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -llapack -lblas -lpython2.7 

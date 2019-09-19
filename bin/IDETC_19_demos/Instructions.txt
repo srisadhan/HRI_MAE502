@@ -1,0 +1,24 @@
+Executables
+-----------
+
+1) Spaghetti stick 
+
+   a) stiff grasp
+	sudo ./demo_spaghetti_low
+   
+   b) External force adaptation : k = 200 (low damping)               - 
+	sudo ./demo_spaghetti_low var 
+
+   c) External force adaptation : k = 25 (high damping) 
+	sudo ./demo_spaghetti_high var 
+
+2) Ball
+
+   a) stiff grasp
+	sudo ./demo_ball_low ball
+   
+   b) External force adaptation : k = 200 (low damping)               - 
+	sudo ./demo_ball_low var ball 
+
+   c) External force adaptation : k = 25 (high damping) 
+	sudo ./demo_ball_high var ball

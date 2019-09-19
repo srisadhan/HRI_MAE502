@@ -1,0 +1,9 @@
+Executables
+-----------
+
+
+sudo ./high_stiff
+sudo ./low_stiff
+
+sudo ./gripper_demo var
+

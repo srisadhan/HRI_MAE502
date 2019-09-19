@@ -1,0 +1,5 @@
+/home/sri/HRI_projects/CMakeFiles/edit_cache.dir
+/home/sri/HRI_projects/CMakeFiles/dynamixel.dir
+/home/sri/HRI_projects/CMakeFiles/datarecord.dir
+/home/sri/HRI_projects/CMakeFiles/gripper_demo.dir
+/home/sri/HRI_projects/CMakeFiles/rebuild_cache.dir

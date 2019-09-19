@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++0x   CMakeFiles/gripper_demo.dir/src/gripper_demo.cpp.o  -o ../bin/gripper_demo -rdynamic -lpthread -lmyolinux libdynamixel.a -lphidget21 -lboost_system -lboost_signals -lboost_thread -lboost_chrono -lboost_date_time -lboost_atomic -lpthread -llapack -lblas -lpython2.7 
