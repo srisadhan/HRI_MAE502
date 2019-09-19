@@ -1,1 +1,1 @@
-HRI - MAE502 coure projects
+HRI - MAE502 course projects
